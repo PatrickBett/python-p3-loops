@@ -18,7 +18,7 @@ def square_integers(int_list):
 
 def fizzbuzz():
     # code goes here!
-    i=100
+   
     for i in range(101):
         if i % 3 ==0:
             print("Fizz")
